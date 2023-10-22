@@ -15,3 +15,20 @@
 ## 4. Nombre Empresa
 
 ![image](https://github.com/crodrigr/scrum-campus/assets/31961588/f93d81ea-adf3-485e-8061-41844505c423)
+
+## 5. About yourself. Skip Question
+
+![image](https://github.com/crodrigr/scrum-campus/assets/31961588/25a40af5-03d1-47ec-af2f-13f6efa3e25f)
+
+## 6 About yourself. Skip Question
+
+![image](https://github.com/crodrigr/scrum-campus/assets/31961588/2b23ad1f-2304-4b32-86af-4048ff25aa4e)
+
+
+## 7 About yourself. Skip Question
+
+![image](https://github.com/crodrigr/scrum-campus/assets/31961588/d360429b-42f7-4d20-8294-9c0001c0189c)
+
+## 8. Plantilla Scrum
+
+![image](https://github.com/crodrigr/scrum-campus/assets/31961588/78c8b0e9-b489-4385-a6d3-9781079e06a4)
