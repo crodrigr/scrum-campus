@@ -32,3 +32,8 @@
 ## 8. Plantilla Scrum
 
 ![image](https://github.com/crodrigr/scrum-campus/assets/31961588/78c8b0e9-b489-4385-a6d3-9781079e06a4)
+
+## 9. Cuanta creada
+
+![image](https://github.com/crodrigr/scrum-campus/assets/31961588/69eb9669-7737-407f-9743-2e604854bb4c)
+
